@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **midoshawky100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e4x663V3-jKxmvrRLDU7Ljy0wChUbcik/view?usp=sharing](https://drive.google.com/file/d/1e4x663V3-jKxmvrRLDU7Ljy0wChUbcik/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1e4x663V3-jKxmvrRLDU7Ljy0wChUbcik/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
