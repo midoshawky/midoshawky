@@ -21,3 +21,9 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=midoshawky&show_icons=true&locale=en" alt="midoshawky" /></p><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=midoshawky&" alt="midoshawky" /></p>
+<br><br/>
+<br><br/>
+<br><br/>
+<h3 align="center">Some of my work</h3>
+<a href="https://play.google.com/store/apps/details?id=com.wework.slsstream" ><img align="center" src="https://play-lh.googleusercontent.com/pzWS2aqgiVY7xQ7-JLQHCwTKdaDJpqCuc4Ty82bYKQL5g-RTrjhIpnK1Jyjimk3YsSw=s200-rw" width="200"/><a/>
+<a href="https://play.google.com/store/apps/details?id=com.wework.slsstream" ><img align="center" src="https://play-lh.googleusercontent.com/6N3kk_dyPpD3ES77H1SLQkMYyGKNLigc-E-19Cxhi3SRp7O_uZb9F3kyx_8HeUdSCvBm=s180-rw" width="200"/><a/>
