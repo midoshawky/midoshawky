@@ -30,23 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
 </p>
 
 ---
 
-<h3 align="center">📱 Highlighted Projects</h3>
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.wework.haslnaha"><img src="https://i.imgur.com/GMV9V97.png" width="180" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.wework.slsstream"><img src="https://i.imgur.com/eiFqyFJ.png" width="180" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.pomac.oneapp"><img src="https://i.imgur.com/n3e4vUr.png" width="180" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.cloudips.TulipCustomer"><img src="https://i.imgur.com/1yJe4xA.png" width="180" /></a>
-</p>
-
-Other apps:
+Latests apps:
 - 🧑‍🏫 [TeacherPackage (Education)](https://play.google.com/store/apps/details?id=com.pomac.teacherpackage&hl=en)
 - 📚 [Student Package (Companion App)](https://play.google.com/store/apps/details?id=com.pomac.studentpackage&hl=en)
 - 🎟️ [Host | تطبیق هوست (Events)](https://apps.apple.com/kw/app/host-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%87%D9%88%D8%B3%D8%AA/id6450389811)
