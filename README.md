@@ -41,7 +41,6 @@ Latests apps:
 - 📚 [Student Package (Companion App)](https://play.google.com/store/apps/details?id=com.pomac.studentpackage&hl=en)
 - 🎟️ [Host | تطبیق هوست (Events)](https://apps.apple.com/kw/app/host-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%87%D9%88%D8%B3%D8%AA/id6450389811)
 - 📷 [HIPA Awards](https://apps.apple.com/pl/app/hipa-awards/id6475718142)
-- 🌱 [Beyti (Farming)](https://play.google.com/store/apps/details?id=com.quality.beyti.beyti)
 - 🏷️ [TagMe (Social)](https://apps.apple.com/au/app/tagme/id1598114927)
 
 ---
